@@ -3,8 +3,6 @@
 <p><i>"Usar meu conhecimento para melhorar e testar minhas habilidades como programador".:rocket:</i></p>
 
 
-<h2>Porque</h2>
-
 <p>Esse projeto faz parte do meu portfolio, então, fique à vontade para entrar em contato para críticas ou feedback sobre o código, estrutura ou outro motivo que me ajude a me tornar um melhor programador!</p>
 
 <span>E-mail: <a>gabriel.pso100@gmail.com</a ></span><br>
@@ -13,6 +11,9 @@
 
 <p>Foi utilizada a API disponibilizada pela cptec (Centro de Previsão de Tempo e Estudos Climáticos), você pode a conferir clicando <a target="_blank" href="http://servicos.cptec.inpe.br/XML/">aqui</a></p>
 
+<div style="display:flex; flex-direction:column;">
+    <img src="img.png" width="350" style="align-self: center;">
+<div>
 
 <h2>Funcionalidades</h2>
 
