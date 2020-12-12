@@ -11,10 +11,6 @@
 
 <p>Foi utilizada a API disponibilizada pela cptec (Centro de Previsão de Tempo e Estudos Climáticos), você pode a conferir clicando <a target="_blank" href="http://servicos.cptec.inpe.br/XML/">aqui</a></p>
 
-<div style="display:flex; flex-direction:column;">
-    <img src="img.png" width="350" style="align-self: center;">
-<div>
-
 <h2>Funcionalidades</h2>
 
 •:partly_sunny: Retorna as informações climáticas de qualquer município do território brasileiro dos próximos 6 dias em formato de gráfico.  <br>
