@@ -1,3 +1,4 @@
+<p> If you want to take a look on all screens of the App, click <a href="https://spotify---clone.herokuapp.com/" target="_blank">here.</a></p>
 <h2>Goal</h2> 
 <p><i>"Use my knowledge to improve and test my skills as a programmer".:rocket:</i></p>
 
