@@ -7,7 +7,7 @@
 <span><a target="_blank" href="https://www.linkedin.com/in/gabriel-97-oliveira">linkedin</a></span><br>
 
 <h2>Observations</h2>
-<Strong>working still in progress</strong>.:rocket:<br>
+<Strong>working still in progress</strong>. :rocket:<br>
 <p>it was utilized the spotify api to get some users data, you can check <a target="_blank" href="https://github.com/thelinmichael/spotify-web-api-node"> here</a>.</p><p>you can find more informations about the libraties<a target="_blank" href="https://developer.spotify.com/documentation/web-api/libraries/"> here</a>.</p>
 
 <h4>Cloning the Repository</h4><br>
