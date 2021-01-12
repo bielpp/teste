@@ -1,60 +1,43 @@
-<p> Para dar uma olhada na aplicação, click <a href="#" target="_blank">aqui.</a></p>
-<h2>Sobre</h2> 
-<p><i>"Usar meu conhecimento para melhorar e testar minhas habilidades como programador".:rocket:</i></p>
+<h2>Goal</h2> 
+<p><i>"Use my knowledge to improve and test my skills as a programmer".:rocket:</i></p>
 
 
-<p>Esse projeto faz parte do meu portfolio, então, fique à vontade para entrar em contato para críticas ou feedback sobre o código, estrutura ou outro motivo que me ajude a me tornar um melhor programador!</p>
+<p>This project is part of my portfolio, so feel free to get in touch for feedback on the code, structure or other reason that will help me become a better programmer!</p>
 
 <span>E-mail: <a>gabriel.pso100@gmail.com</a ></span><br>
 <span><a target="_blank" href="https://www.linkedin.com/in/gabriel-97-oliveira">linkedin</a></span><br>
-<h2>Observações</h2>
+<h2>Observations</h2>
 
-<p>Foi utilizada a API disponibilizada pela cptec (Centro de Previsão de Tempo e Estudos Climáticos), você pode a conferir clicando <a target="_blank" href="http://servicos.cptec.inpe.br/XML/">aqui</a></p>
-
-<h2>Funcionalidades</h2>
-
-•:partly_sunny: Retorna as informações climáticas de qualquer município do território brasileiro dos próximos 6 dias em formato de gráfico.  <br>
-•:ocean: Caso o município pesquisado seja litorâneo, retorna as condições do mar, como tamanho das ondas, agitação e vento. <br>
-
-<h3>Pré-Requisitos</h3>
-<p>Para iniciar esta aplicação, é necessário ter o NODEJS 8+ instalado.</p>
-
-<h3>Instalando</h3>
-<h4>Clonando o repositório</h4><br>
-<span>$ git clone https://github.com/Biel-97/clima_tempo_mar</span><br>
-<span>$ cd clima_tempo_mar</span><br>
+<p>it was utilized the spotify api to get some users data, you can check  <a target="_blank" href="https://github.com/thelinmichael/spotify-web-api-node">here</a>.
+</p>
+<p>you can find more informations about the libraties<a target="_blank" href="https://developer.spotify.com/documentation/web-api/libraries/"> here</a>.</p>
 
 
-<h3>Instalando dependências</h3><br>
-<span>$ yarn</span><br>
-<i>OU</i><br>
-<span>$ npm install</span><br>
-
-<h2>Conectando na aplicação</h2><br>
-<p>Por padrão, a aplicação irá rodar na porta 3000, a URL de acesso então será:</p>
-<span>App_URL:  http://localhost:3000/</span><br>
-<i>OU</i><br>
-<span>App_URL=http://SEU_IP_LOCAL:3000/</span><br>
+<h4>Cloning the Repository</h4><br>
+<span>$ git clone https://github.com/Biel-97/spotify-clone</span><br>
+<span>$ cd spotify-clone</span><br>
+<span>$ npm install</span><br><br>
 
 
-<h2>Iniciando</h2>
-<p>Com todas as dependências instaladas, você já pode iniciar a aplicação:</p>
-<h3>Dentro da pasta: </h3>
-<span>$ npm start</span>
+<h2>setting the app</h2>
+Now, its important create a <strong>.env</strong>  file in the root application with the following variables:<br><br>
 
-<h2>Criado com</h2>
+<strong>REACT_APP_REDIRECT_URL </strong> <i>---- </i>this url must be the same as you project dashboard settings.<br>
+
+<strong>REACT_APP_ID </strong><i>---- </i> notice that you can get your token <a target="_blank" href="https://developer.spotify.com/dashboard/applications">here</a>.
+
+
+<p>By default, the react-app will be running in the port 3000 so, the url and REACT_APP_REDIRECT_URL variable will be: <Strong>http://localhost:3000/</strong></p>
+
+
+<h2>Built With</h2>
 <span>• React JS </span><br>
-<span>• Fontawesome</span><br>
-<span>• axios</span><br>
-<span>• chart.js</span><br><br>
+<span>• spotify web api</span><br><br>
 
 
-<h2>Obrigado!</h2>
-
-<p>Duvidas ou sugestões fique à vontade para entrar em contato:</p>
+<hr>
 <span>E-mail: <a>gabriel.pso100@gmail.com</a ></span><br>
 
 <span><a href ="http://www.linkedin.com/in/gabriel-97-oliveira" target="_blank">LinkedIn</a> </span><br>
 
 :thumbsup:
-
