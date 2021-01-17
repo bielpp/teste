@@ -11,7 +11,14 @@
 <Strong>:rocket: working still in progress</strong>. :rocket:<br>
 <p>it was utilized the spotify api to get users data, you can check <a target="_blank" href="https://github.com/thelinmichael/spotify-web-api-node"> here</a>.</p><p>you can find more informations about the libraties<a target="_blank" href="https://developer.spotify.com/documentation/web-api/libraries/"> here</a>.</p>
 
-<h4>Cloning the Repository</h4><br>
+<h2>Functionalities</h2>
+• get the user's playlist with the description and tracks<br>
+• a 30 seconds preview of each track from the user playlist<br>
+• Albums Recently Played by the user<br>
+• the most searched artists by the user<br>
+
+<br>
+<h2>Cloning the Repository</h2><br>
 <span>$ git clone https://github.com/Biel-97/spotify-clone</span><br>
 <span>$ cd spotify-clone</span><br>
 <span>$ npm install</span><br><br>
