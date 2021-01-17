@@ -29,6 +29,7 @@
 
 <img src="http://g.recordit.co/qMA5yrQ7iF.gif" width="400" height="300" alt="">
 <img src="http://g.recordit.co/qMA5yrQ7iF.gif" width="400" height="300" alt=""/>
+![](http://g.recordit.co/qMA5yrQ7iF.gif)
 
 <br>
 <h2>Cloning the Repository</h2><br>
