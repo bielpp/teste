@@ -10,7 +10,17 @@
 <h2>Observations</h2>
 <Strong>:rocket: working still in progress</strong>. :rocket:<br>
 <p>it was utilized the spotify api to get users data, you can check <a target="_blank" href="https://github.com/thelinmichael/spotify-web-api-node"> here</a>.</p><p>you can find more informations about the libraties<a target="_blank" href="https://developer.spotify.com/documentation/web-api/libraries/"> here</a>.</p>
+<h4>Spotify Authentication</h4>
+<p>in the Authentication page, you agree to give permission to the following parameters:</p><br>
 
+<strong>View your Spotify account data</strong><br>
+<span>&nbsp;&nbsp;Your name and username, your profile picture, how many followers you have on Spotify and your public playlists</span>
+
+<strong>View your activity on Spotify</strong><br>
+<spa>&nbsp;&nbsp;Content you have recently played</span><br>
+<span>&nbsp;&nbsp;What you’ve saved in Your Library</span><br>
+<span>&nbsp;&nbsp;Your top artists and content</span><br>
+	
 <h2>Functionalities</h2>
 • get the user's playlist with the description and tracks<br>
 • a 30 seconds preview of each track from the user playlist<br>
