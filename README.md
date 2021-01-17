@@ -31,7 +31,7 @@
 <img src="giff-teste.gif" width="400" height="300" alt="">
 
 </h1>
-<strong>OBS:. some preview tracks url are broken, so its normal to find some music with a little symbol of error.:sweat_smile:</strong>
+<strong>OBS:. some preview tracks url are broken, so its normal to find some with a little symbol of error.:sweat_smile:</strong>
 
 
 <br>
