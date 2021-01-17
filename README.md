@@ -25,11 +25,13 @@
 • get the user's playlist with the description and tracks<br>
 • a 30 seconds preview of each track from the user playlist<br>
 • Albums Recently Played by the user<br>
-• the most searched artists by the user<br>
+• the most searched artists by the user<br><br>
 
+<h1>
 <img src="giff-teste.gif" width="400" height="300" alt="">
-<img src="giff-teste.gif" width="400" height="300" alt=""/>
-![Alt Text](giff-teste.gif)
+
+</h1>
+
 
 
 <br>
