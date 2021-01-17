@@ -13,10 +13,10 @@
 <h4>Spotify Authentication</h4>
 <p>in the Authentication page, you agree to give permission to the following parameters:</p>
 
-<strong>View your Spotify account data</strong>
+<strong>View your Spotify account data</strong><br>
 <span>&nbsp;&nbsp;Your name and username, your profile picture, how many followers you have on Spotify and your public playlists</span>
 
-<strong>View your activity on Spotify</strong>
+<strong>View your activity on Spotify</strong><br>
 <spa>&nbsp;&nbsp;Content you have recently played</span><br>
 <span>&nbsp;&nbsp;What you’ve saved in Your Library</span><br>
 <span>&nbsp;&nbsp;Your top artists and content</span><br>
