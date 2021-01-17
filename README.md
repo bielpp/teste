@@ -27,6 +27,9 @@
 • Albums Recently Played by the user<br>
 • the most searched artists by the user<br>
 
+<img src="http://g.recordit.co/qMA5yrQ7iF.gif" width="400" height="300" alt="">
+<img src="http://g.recordit.co/qMA5yrQ7iF.gif" width="400" height="300" alt=""/>
+
 <br>
 <h2>Cloning the Repository</h2><br>
 <span>$ git clone https://github.com/Biel-97/spotify-clone</span><br>
