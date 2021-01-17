@@ -27,9 +27,9 @@
 • Albums Recently Played by the user<br>
 • the most searched artists by the user<br>
 
-<img src="http://g.recordit.co/qMA5yrQ7iF.gif" width="400" height="300" alt="">
-<img src="http://g.recordit.co/qMA5yrQ7iF.gif" width="400" height="300" alt=""/>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="giff-teste.gif" width="400" height="300" alt="">
+<img src="giff-teste.gif" width="400" height="300" alt=""/>
+![Alt Text](giff-teste.gif)
 
 
 <br>
