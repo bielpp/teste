@@ -23,10 +23,10 @@ This app is hosted on heroku  free plan, meaning that on the initial load, the s
 
 <img src="ReadMeImages\sign-preview-1.png"
 width="200"
-height="210"  alt="home-page"> 
+height="210"  alt="home-page"> &nbsp;
 <img src="ReadMeImages\sign-preview-2.png"
 width="200"
-height="210"  alt="sign info">
+height="210"  alt="sign info">&nbsp;
 <img src="ReadMeImages\sign-preview-3.png"
 width="200"
 height="210"  alt="sign form">
