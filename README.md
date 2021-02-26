@@ -1,4 +1,4 @@
-<p> If you want to take a look on all screens of the App, click <a href="https://spotify---clone.herokuapp.com/" target="_blank">here.</a></p>
+<p> If you want to take a look on all screens of the App, click <a href="https://biel-97.github.io/sign/#/sign/login" target="_blank">here.</a></p>
 <h2>Goal</h2> 
 <p><i>"Use my knowledge to improve and test my skills as a programmer".:rocket:</i></p>
 
@@ -8,55 +8,55 @@
 <span><a target="_blank" href="https://www.linkedin.com/in/gabriel-97-oliveira">linkedin</a></span><br>
 
 <h2>Observations</h2>
-<Strong>:rocket: working still in progress</strong>. :rocket:<br>
-<p>it was utilized the spotify api to get users data, you can check <a target="_blank" href="https://github.com/thelinmichael/spotify-web-api-node"> here</a>.</p><p>you can find more informations about the libraties<a target="_blank" href="https://developer.spotify.com/documentation/web-api/libraries/"> here</a>.</p>
-<h4>Spotify Authentication</h4>
-<p>in the Authentication page, you agree to give permission to the following parameters:</p>
+<p>If you want to check the back-end services repository, click <a target="_blank" href="https://github.com/Biel-97/sign-back"> here</a>.</p>
 
-<strong>View your Spotify account data</strong><br>
-<span>&nbsp;&nbsp;Your name and username, your profile picture, how many followers you have on Spotify and your public playlists</span>
+<p>
+This app is hosted on heroku  free plan, meaning that on the initial load, the server mat neet to start which can cause a delay.
+</p>
 
-<strong>View your activity on Spotify</strong><br>
-<spa>&nbsp;&nbsp;Content you have recently played</span><br>
-<span>&nbsp;&nbsp;What you’ve saved in Your Library</span><br>
-<span>&nbsp;&nbsp;Your top artists and content</span><br>
 	
 <h2>Functionalities</h2>
-• get the user's playlist with the description and tracks<br>
-• a 30 seconds preview of each track from the user playlist<br>
-• Albums Recently Played by the user<br>
-• the most searched artists by the user<br><br>
-
-<h1>
-<img src="giff-teste.gif" width="400" height="300" alt="">
-
-</h1>
-<strong>OBS:. some preview tracks url are broken, so its normal to find some with a little symbol of error.:sweat_smile:</strong>
+• login and password with authentication token.<br>
+• obtains the signs according to the date of birth, place of birth and timezoneid.<br>
+• stores search data in a database that can be accessed at any time, being possible to delete it as well.<br><br>
 
 
+<img src="ReadMeImages\sign-preview-1.png"
+width="200"
+height="210"  alt="home-page"> 
+<img src="ReadMeImages\sign-preview-2.png"
+width="200"
+height="210"  alt="sign info">
+<img src="ReadMeImages\sign-preview-3.png"
+width="200"
+height="210"  alt="sign form">
+
+<strong>OBS:. the database is using a free hosting, which can lead to a storage limitation, so for each account only 5 maps will be allowed, but they can be deleted at any time by the user, giving space for a new astrological chart..:sweat_smile:</strong>
+<hr>
+
+<h2>Cloning the Repository</h2>
+<span>$ git clone https://github.com/Biel-97/sign</span><br>
+<span>$ cd sign</span><br>
+<span>$ npm install</span>
 <br>
-<h2>Cloning the Repository</h2><br>
-<span>$ git clone https://github.com/Biel-97/spotify-clone</span><br>
-<span>$ cd spotify-clone</span><br>
-<span>$ npm install</span><br><br>
 
 <h2>setting the app</h2>
-Now, three things are importants:<br>
-config your <strong>dashboard</strong> to config your redirect url.<br>
-make sure to get your <strong>API KEY </strong>to guarantee your access.<br>
-its important create a <strong>.env</strong>  file in the root application with the following variables:<br><br>
+Now, two things are importants:<br>
 
-<strong>REACT_APP_REDIRECT_URL </strong> <i>---- </i>this url must be the same as you project dashboard settings.<br>
+ <p>you can find the methodology to cloning and config the back-end repository <a target="_blank" href="https://github.com/Biel-97/sign-back"> here</a></p>
 
-<strong>REACT_APP_ID </strong> <i>---- </i>this token must be the same as you project dashboard settings.<br>
+<p>its important create a <strong>.env</strong>  file in the root application with the following variables:<p>
 
- notice that you can config your <strong>dashboard</strong> and get your <strong>token</strong> <a target="_blank" href="https://developer.spotify.com/dashboard/">here</a>.
+<strong>REACT_APP_SERVER_URL </strong> <i>---- </i>this url its the back-end server. if you dont config this variable, by default the url will be http://localhost:8080 .<br>
 
-<p>By default, the react-app will be running in the port 3000 so, the browser url, REACT_APP_REDIRECT_URL and redirect url variable must be: <Strong>http://localhost:3000/</strong> to run in development environment.</p>
+
+
 
 <h2>Built With</h2>
 <span>• React JS </span><br>
-<span>• spotify web api</span><br><br>
+<span>• React-router-dom </span><br>
+<span>• Axios</span><br><br>
+<span>• Fortawesome</span><br><br>
 
 <hr>
 <span>E-mail: <a>gabriel.pso100@gmail.com</a ></span><br>
